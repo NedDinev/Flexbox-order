@@ -1,6 +1,6 @@
 body {
   display: flex;
-  flex-flow: row;
+  flex-direction: row;
   flex-wrap: wrap;
   text-align: center;
 }
